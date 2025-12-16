@@ -1,1 +1,214 @@
-# nathalia.vergara
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Nathalia Vergara | Comunicação & Imprensa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background: #f8f9fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #1f2933;
+      color: #fff;
+      padding: 40px 20px;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.2em;
+    }
+    header p {
+      max-width: 800px;
+      margin-top: 10px;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #1f2933;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 8px;
+    }
+    h3 {
+      margin-top: 30px;
+      color: #374151;
+    }
+    .case {
+      background: #fff;
+      padding: 25px;
+      margin-top: 20px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    }
+    .placeholder {
+      background: #eef2f7;
+      padding: 15px;
+      margin-top: 10px;
+      border-left: 4px solid #3b82f6;
+      font-style: italic;
+    }
+    footer {
+      background: #1f2933;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+      margin-top: 60px;
+    }
+    a {
+      color: #3b82f6;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Nathalia Vergara</h1>
+  <p>
+    Comunicação Institucional, Assessoria de Imprensa e Comunicação Interna.<br>
+    Planejamento estratégico, relacionamento com a mídia e construção de reputação.
+  </p>
+</header>
+
+<section>
+  <h2>Sobre o portfólio</h2>
+  <p>
+    Este portfólio reúne recortes estratégicos do meu trabalho em assessoria de imprensa
+    e comunicação interna, com foco em <strong>qualidade editorial, impacto institucional
+    e desdobramentos em grandes veículos</strong>.
+  </p>
+  <p>
+    Mais do que quantidade de publicações, apresento aqui <strong>como os releases foram
+    pensados, posicionados e escalados</strong>, gerando visibilidade nacional e fortalecimento
+    de marca.
+  </p>
+</section>
+
+<section>
+  <h2>Assessoria de Imprensa — Casos e Desdobramentos</h2>
+
+  <div class="case">
+    <h3>Reconhecimento acadêmico e reputação institucional</h3>
+    <p>
+      <strong>Contexto:</strong> Release institucional com foco em desempenho acadêmico,
+      reputação e indicadores oficiais.
+    </p>
+    <p>
+      <strong>Desdobramentos:</strong> A pauta ganhou escala nacional e foi repercutida
+      em veículos de grande porte como <em>Folha de S.Paulo, Estadão, UOL, G1 e CNN Brasil</em>,
+      alcançando milhões de leitores.
+    </p>
+    <div class="placeholder">
+      ✍️ Espaço para você inserir:
+      - o texto do release;
+      - o racional da pauta;
+      - prints das matérias publicadas;
+      - explicação de timing, abordagem e follow-up com jornalistas.
+    </div>
+  </div>
+
+  <div class="case">
+    <h3>Saúde, ciência e educação como pauta de interesse público</h3>
+    <p>
+      <strong>Contexto:</strong> Releases com fontes técnicas e especialistas da instituição,
+      traduzindo temas complexos de saúde e educação para o grande público.
+    </p>
+    <p>
+      <strong>Desdobramentos:</strong> Publicações em veículos especializados
+      (<em>Pesquisa FAPESP, Saúde Business, Galileu</em>) e amplificação em portais de grande alcance,
+      reforçando autoridade institucional.
+    </p>
+    <div class="placeholder">
+      ✍️ Espaço para inserir:
+      - trechos do release;
+      - como você escolheu as fontes;
+      - como adaptou linguagem técnica para imprensa generalista.
+    </div>
+  </div>
+
+  <div class="case">
+    <h3>Vestibular, cursos e posicionamento educacional</h3>
+    <p>
+      <strong>Contexto:</strong> Releases estratégicos sobre vestibular, cursos tecnológicos
+      e diferenciais pedagógicos.
+    </p>
+    <p>
+      <strong>Desdobramentos:</strong> Repercussão em editorias de educação e comportamento,
+      com presença em <em>Estadão Educação, UOL Educação, Guia do Estudante</em> e republicações
+      em portais regionais.
+    </p>
+    <div class="placeholder">
+      ✍️ Espaço para você mostrar:
+      - planejamento editorial;
+      - adequação do release a cada editoria;
+      - exemplos de títulos publicados.
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Comunicação Interna — Estratégia e Cultura</h2>
+
+  <div class="case">
+    <h3>Estruturação da Comunicação Interna</h3>
+    <p>
+      Consolidação da comunicação interna como área estratégica, com padronização visual,
+      organização de fluxos e criação de projetos estruturantes.
+    </p>
+    <ul>
+      <li>Santa News (newsletter institucional)</li>
+      <li>Newsletter “Entre a Gente” no LinkedIn</li>
+      <li>Canal oficial de WhatsApp para funcionários</li>
+      <li>Trilha de boas práticas e campanhas institucionais</li>
+    </ul>
+    <div class="placeholder">
+      ✍️ Espaço para detalhar:
+      - antes e depois da CI;
+      - desafios de cultura organizacional;
+      - resultados percebidos internamente.
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2>Meu papel estratégico</h2>
+  <p>
+    Em todos os projetos apresentados, atuei de forma integrada, reunindo:
+  </p>
+  <ul>
+    <li>Planejamento editorial e estratégico</li>
+    <li>Produção de textos e releases</li>
+    <li>Relacionamento com jornalistas</li>
+    <li>Gestão de crises e prazos curtos</li>
+    <li>Articulação entre áreas internas</li>
+  </ul>
+
+  <div class="placeholder">
+    ✍️ Espaço para um texto mais autoral:
+    sua visão de comunicação, aprendizados e diferenciais profissionais.
+  </div>
+</section>
+
+<section>
+  <h2>Contato profissional</h2>
+  <p>
+    Para projetos, parcerias ou oportunidades profissionais:
+  </p>
+  <p>
+    📧 <strong>Email:</strong> seuemail@exemplo.com<br>
+    🔗 <strong>LinkedIn:</strong> <a href="#">linkedin.com/in/seuperfil</a>
+  </p>
+</section>
+
+<footer>
+  <p>© 2025 — Nathalia Vergara | Comunicação & Imprensa</p>
+</footer>
+
+</body>
+</html>
